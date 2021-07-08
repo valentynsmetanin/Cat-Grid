@@ -1,6 +1,6 @@
 # Cat grid
 
-Simple draft app using Flutter framework that use GridView and Material Navigation
+Simple draft app using Flutter framework which uses GridView and Material Navigation
 
 Author: Valentyn Smetanin
 
